@@ -1,0 +1,1 @@
+def sum():x=2y=3result=x+y;return result$
